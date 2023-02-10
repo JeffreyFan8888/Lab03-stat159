@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 hello Jeff
+hello Andeiii
+>>>>>>> b922f93993c30f7742d13ca2718645acde434b15
 
 hi
